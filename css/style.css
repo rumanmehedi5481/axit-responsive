@@ -982,6 +982,10 @@ ul li {
   background: #ff8b38;
   margin: 20px auto;
 }
+  .price .cus-inner {
+    position: relative;
+    bottom: 0;
+}
 
 
 .customer {
@@ -1307,6 +1311,10 @@ ul li {
     .price .pricing-inner {
       padding-top: 50px;
     }
+    .price .cus-inner {
+    position: relative;
+    bottom: 0;
+}
   
     .price .pricing-inner .pricing-item .pricing-header h3 {
       font-size: 17px;
@@ -1658,6 +1666,10 @@ ul li {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
   }
+  .price .cus-inner {
+    position: relative;
+    bottom: 0;
+}
 
   .customer {
     padding: 50px 0 10px;
